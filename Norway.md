@@ -1,5 +1,5 @@
 
-                      #Norway
+                      #Norway#
 
           The mainstate of norway is Oslo
 
@@ -7,4 +7,4 @@
 
             Norway is a part of europe 
 
-  Next to norway we got Sweden, Russia and Finland
+    Next to norway we got Sweden, Russia and Finland
